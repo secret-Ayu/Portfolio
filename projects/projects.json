@@ -1,18 +1,18 @@
 [
   {
     "name": "Journey Journal",
-    "desc": ". An interactive Blog website dedicated to Travel & Tourism which enable users to read,compose, publish blogs about Tourist destinations.",
+    "desc": "Developed an interactive Blog website dedicated to Travel & Tourism which enable users to read,compose and publish blogs about Tourist destinations.",
     "image": "notystackandroid",
     "category": "mern",
     "links": {
-      "view": "",
+      "view": "https://journey-journal.onrender.com",
       "code": "https://github.com/secret-Ayu/Blog-Website"
     }
   },
   
   {
-    "name": "NINEWEST E-Commerce",
-    "desc": "",
+    "name": "NINE WEST E-Commerce",
+    "desc": "Developed an e-commerce website specializing in fashionable footwear, offering a wide selection of trendy shoes handbags, and accessories for women.",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
@@ -22,18 +22,18 @@
   },
   {
     "name": "Weather Lens",
-    "desc": "highly user-friendly Web Application which enable users to fetch real-time Weather and Pollution reports.Built using HTML, CSS, EJS, JavaScript, Bootstrap 5, Node.js, Express.js",
+    "desc": "Developed highly user-friendly Web Application which enable users to fetch real-time Weather and Pollution reports.",
     "image": "weatherlyandroid",
     "category": "mern",
     "links": {
-      "view": "",
+      "view": "https://weather-app-nekp.onrender.com",
       "code": "https://github.com/secret-Ayu/Weather-Lens"
     }
   },
   {
-    "name": "Band-Generator-Project",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Band-Generator",
+    "desc": "An innovative Musical collaboration tool that helps musicians and artists connect and create music together, regardless of their physical locations.",
+    "image": "jspro",
     "category": "mern",
     "links": {
       "view": "",
@@ -42,8 +42,8 @@
   },
   {
     "name": "CureNest Healthcare",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "desc": "Developed social networking Platform exclusively for healthcare professionals which covers the latest development in the healthcare industry.Ability to share photos, PDFs, PPTs, excel sheets, and videos.",
+    "image": "newsboxandroid",
     "category": "mern",
     "links": {
       "view": "",
@@ -52,8 +52,8 @@
   },
   {
     "name": "Task Management",
-    "desc": ".",
-    "image": "flipkartphp",
+    "desc": "Developed the web application to help individuals organize their daily activities and prioritize tasks efficiently. Users can easily create, track, and manage their tasks.",
+    "image": "todo",
     "category": "lamp",
     "links": {
       "view": "https://secret-ayu.github.io/Todo-list/ ",
@@ -62,7 +62,7 @@
   },
   {
     "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "desc": "Developed and maintained a personal portfolio website to showcase professional skills, projects, and achievements, effectively enhancing online presence and promoting personal brand.",
     "image": "portfolio1",
     "category": "android",
     "links": {
